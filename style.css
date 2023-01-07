@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Work Sans', sans-serif;
 }
 .header{
     background-image: url('images/banner/banner2.png');
@@ -55,6 +56,10 @@
 .second-banner-paragrap{
             margin-top: 20px;
             color: darkgray;
+}
+
+.check-space{
+    padding-right: 10px;
 }
 
 /* main section */
